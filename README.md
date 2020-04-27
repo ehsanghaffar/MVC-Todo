@@ -2,7 +2,7 @@
 
 a simple application in plain JavaScript using the model-view-controller architectural pattern.
 
-- you can see demo here [demo](http://todo.ehsanghaffarii.ir)
+- you can see demo [here](http://todo.ehsanghaffarii.ir)
 
 ## Prerequisites
 
