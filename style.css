@@ -10,11 +10,34 @@ html {
   color: #444;
 }
 
+.container {
+  text-align: center;
+  border-bottom: 1px solid #ccc;
+}
+
+.footer {
+  text-align: center;
+  bottom: 0;
+  display: block;
+  position: absolute;
+  width: 100%;
+  border-top: 1px solid #ccc;
+  height: 80px;
+  padding: 10px;
+}
+
+.footer a {
+  text-decoration: none;
+  color: #666;
+  letter-spacing: 1px;
+}
+
 #root {
   max-width: 450px;
   margin: 2rem auto;
   padding: 0 1rem;
 }
+
 
 form {
   display: flex;
